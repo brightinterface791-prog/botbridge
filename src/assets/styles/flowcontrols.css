@@ -1,0 +1,17 @@
+.react-flow__controls {
+    box-shadow:none;
+    border:1px solid #1e293b;
+    border-radius:8px;
+    overflow:hidden;
+}
+
+.react-flow__controls button{
+    width:30px;
+    height:30px;
+    background:#0f172a;
+    color:white;
+}
+
+.react-flow__controls button:hover{
+    background:#1e293b;
+}
